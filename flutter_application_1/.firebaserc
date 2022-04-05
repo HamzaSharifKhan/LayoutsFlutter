@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "layoutflutter"
+  },
+  "targets": {
+    "layoutflutter": {
+      "hosting": {
+        "Layout1": [
+          "layou1"
+        ]
+      }
+    }
+  }
+}
